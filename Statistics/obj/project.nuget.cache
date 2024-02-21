@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W4ciGaMX1tojCSd7CJuDmpqRTGFEfUB3W2kZVEzDXJL+dnNK7dIpzIrqVY0zBo5fDD1Fgmupf2jenLIDwuTsaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rasse\\source\\repos\\Statistics\\Statistics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rasse\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

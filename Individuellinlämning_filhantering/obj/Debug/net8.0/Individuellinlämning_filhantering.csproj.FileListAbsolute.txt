@@ -1,0 +1,14 @@
+C:\Users\rasse\source\repos\Individuellinlämning_filhantering\bin\Debug\net8.0\Individuellinlämning_filhantering.exe
+C:\Users\rasse\source\repos\Individuellinlämning_filhantering\bin\Debug\net8.0\Individuellinlämning_filhantering.deps.json
+C:\Users\rasse\source\repos\Individuellinlämning_filhantering\bin\Debug\net8.0\Individuellinlämning_filhantering.runtimeconfig.json
+C:\Users\rasse\source\repos\Individuellinlämning_filhantering\bin\Debug\net8.0\Individuellinlämning_filhantering.dll
+C:\Users\rasse\source\repos\Individuellinlämning_filhantering\bin\Debug\net8.0\Individuellinlämning_filhantering.pdb
+C:\Users\rasse\source\repos\Individuellinlämning_filhantering\obj\Debug\net8.0\Individuellinlämning_filhantering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasse\source\repos\Individuellinlämning_filhantering\obj\Debug\net8.0\Individuellinlämning_filhantering.AssemblyInfoInputs.cache
+C:\Users\rasse\source\repos\Individuellinlämning_filhantering\obj\Debug\net8.0\Individuellinlämning_filhantering.AssemblyInfo.cs
+C:\Users\rasse\source\repos\Individuellinlämning_filhantering\obj\Debug\net8.0\Individuellinlämning_filhantering.csproj.CoreCompileInputs.cache
+C:\Users\rasse\source\repos\Individuellinlämning_filhantering\obj\Debug\net8.0\Individuellinlämning_filhantering.dll
+C:\Users\rasse\source\repos\Individuellinlämning_filhantering\obj\Debug\net8.0\refint\Individuellinlämning_filhantering.dll
+C:\Users\rasse\source\repos\Individuellinlämning_filhantering\obj\Debug\net8.0\Individuellinlämning_filhantering.pdb
+C:\Users\rasse\source\repos\Individuellinlämning_filhantering\obj\Debug\net8.0\Individuellinlämning_filhantering.genruntimeconfig.cache
+C:\Users\rasse\source\repos\Individuellinlämning_filhantering\obj\Debug\net8.0\ref\Individuellinlämning_filhantering.dll
